@@ -17,10 +17,10 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-I am a passionate Full Stack Developer who enjoys building modern web applications from front to back.  
+I am a passionate Mern Stack Developer who enjoys building modern web applications from front to back.  
 I focus on writing clean, scalable code and continuously improving my problem-solving skills through Data Structures and Algorithms.
 <br>
-🔭 Currently working on Full Stack Web Development projects  
+🔭 Currently working on Mern Stack Web Development projects  
 📚 Actively practicing Data Structures & Algorithms in C++  
 ⚡ Interested in backend systems, scalable applications, and system design  
 🚀 Always learning new technologies and improving development skills
